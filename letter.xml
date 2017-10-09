@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letters>
+    <letter id="1">
+        <invalidto>incorrectmail</invalidto>
+        <to>malyusmukola@gmail.com</to>
+        <title>WebDriver Test</title>
+        <content>Congratulations, you won iPhone 8!Just call us on following number-911!</content>
+    </letter>
+    <letter id="2">
+        <invalidto>a</invalidto>
+        <to>malyusmukola@gmail.com</to>
+        <title>WebDriver Test</title>
+        <content>Congratulations, you won iPhone 8!Just call us on following number-911!</content>
+    </letter>
+    <letter id="3">
+        <invalidto>a</invalidto>
+        <to>malyusmukola@gmail.com</to>
+        <title>WebDriver Test</title>
+        <content>Congratulations, you won iPhone 8!Just call us on following number-911!</content>
+    </letter>
+    <letter id="4">
+        <invalidto>incorrectmail</invalidto>
+        <to>malyusmukola@gmail.com</to>
+        <title>WebDriver Test</title>
+        <content>Congratulations, you won iPhone 8!Just call us on following number-911!</content>
+    </letter>
+    <letter id="5">
+        <invalidto>incorrectmail</invalidto>
+        <to>malyusmukola@gmail.com</to>
+        <title>WebDriver Test</title>
+        <content>Congratulations, you won iPhone 8!Just call us on following number-911!</content>
+    </letter>
+</letters>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="1">
+        <email>iryna123first@gmail.com</email>
+        <password>A1aB2bC3c</password>
+    </user>
+    <user id="2">
+        <email>malyusmukola@gmail.com</email>
+        <password>password</password>
+    </user>
+    <user id="3">
+        <email>iryna123first</email>
+        <password>A1aB2bC3c</password>
+    </user>
+    <user id="4">
+        <email>iryna123first@gmail.com</email>
+        <password>A1aB2bC3c</password>
+    </user>
+    <user id="5">
+        <email>malyusmukola@gmail.com</email>
+        <password>password</password>
+    </user>
+</users>
